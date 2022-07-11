@@ -19,7 +19,7 @@ def mul(x, y):
 def id(x):
     ":math:`f(x) = x`"
     # TODO: Implement for Task 0.1.
-    raise NotImplementedError('Need to implement for Task 0.1')
+    return x
 
 
 def add(x, y):
